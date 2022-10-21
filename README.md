@@ -14,4 +14,4 @@ int main() {
 }
 ```
 ### Inspiration
-Inspired by the programming language principles course at Zhejiang University. This course mentions that languages like Haskell, R, etc. use "lazy evaluation" to avoid repeated computations. So I wanted to explore whether the best programming language in human history - C++ - could implement a similar mechanism.
+Inspired by the programming language principles course at Zhejiang University. This course mentions that languages like Haskell, R, etc. use "lazy evaluation" to avoid repeated computations. So I wanted to explore whether the best programming language in human history - C++ - could implement a similar mechanism without adding new features to the complier.
